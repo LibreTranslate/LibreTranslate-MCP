@@ -11,7 +11,7 @@ const config = { apiUrl: API_URL, apiKey: API_KEY }
 export async function startServer() {
   const server = new McpServer({
     name: 'libretranslate-mcp',
-    version: '1.0.0',
+    version: '1.0.1',
   })
 
   server.registerTool(
