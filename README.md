@@ -57,26 +57,9 @@ Set the following environment variables:
 
 Detect the language of a given text.
 
-**Input:**
-- `text` (string): The text to detect the language for
-
-**Example:**
-```json
-{ "text": "Hello, world!" }
-```
-
-**Response:**
-```json
-{
-  "language": "en",
-  "confidence": 0.99
-}
-```
-
 ### `translate`
 
 Translate text from one language to another.
-
 
 ### `languages`
 
