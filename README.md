@@ -1,6 +1,6 @@
 # LibreTranslate-MCP
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/LibreTranslate/LibreTranslate-MCP/ci.yml?branch=master) ![Version](https://img.shields.io/github/v/release/LibreTranslate/LibreTranslate-MCP)
+![Build Status](https://img.shields.io/github/actions/workflow/status/LibreTranslate/LibreTranslate-MCP/ci.yml?branch=main) ![Version](https://img.shields.io/github/v/release/LibreTranslate/LibreTranslate-MCP)
 
 A [MCP](https://modelcontextprotocol.io/docs/getting-ting-started/intro) server to connect AI agents with [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) to give them machine translation capabilities.
 
