@@ -47,7 +47,7 @@ Set the following environment variables:
 
 | Variable                 | Required           | Description                                                                |
 | ------------------------ | ------------------ | -------------------------------------------------------------------------- |
-| `LIBRETRANSLATE_API_URL` | :check_mark_heavy: | URL of the LibreTranslate API (default: `https://libretranslate.com`)      |
+| `LIBRETRANSLATE_API_URL` | ✔️                 | URL of the LibreTranslate API (default: `https://libretranslate.com`)      |
 | `LIBRETRANSLATE_API_KEY` |                    | API key for the LibreTranslate service (required for `libretranslate.com`) |
 
 
